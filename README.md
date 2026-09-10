@@ -1,3 +1,4 @@
 # GitHub Practice
 
-Learning Git and GitHub step by step.
+
+Login feature is being developed.
