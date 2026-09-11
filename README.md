@@ -1,7 +1,6 @@
 # GitHub Practice
 
-
-Login feature is being developed.
+Login feature is completed.
 ## Contact
 
 For any queries, please contact the development team.
